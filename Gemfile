@@ -27,6 +27,10 @@ gem 'devise'
 
 gem 'milia'
 
+gem 'twitter-bootstrap-rails'
+
+gem 'devise-bootstrap-views'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
